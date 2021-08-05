@@ -1,5 +1,5 @@
 {
-  "name": "chrono-trigger",
+  "name": "noob-zeroo/chrono-trigger",
   "version": "1.0.0",
   "description": "Library for measuring the performance of a code trail",
   "main": "index.js",
