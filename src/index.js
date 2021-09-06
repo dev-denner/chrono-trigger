@@ -1,2 +1,2 @@
-const ct = require('ct');
+const ct = require('./ct');
 module.exports = { ct };

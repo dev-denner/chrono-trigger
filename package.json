@@ -10,7 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/noob-zeroo/chrono-trigger.git"
   },
-  "keywords": ["cronometro", "performance", "time", "timer"],
+  "keywords": [
+    "cronometro",
+    "performance",
+    "time",
+    "timer"
+  ],
   "author": {
     "name": "Denner Fernandes",
     "email": "dev.denner@outlook.com",
